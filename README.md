@@ -36,12 +36,18 @@ windowResized(): Updates the canvas and recalculates scaleFactor on window resiz
 
 3. Iteration Process
     3.1 Iteration 1
-   <img width="448" alt="Iteration1" src="https://github.com/user-attachments/assets/e96541af-7266-4b03-b465-ffc961033b1b">   
+   
+   <img width="448" alt="Iteration1" src="https://github.com/user-attachments/assets/e96541af-7266-4b03-b465-ffc961033b1b">  
+   
 In this version of the candy tree, the visual effect dosen't do well, lacking the visual shock. I’m planning to adjust this code to make it more engaging. So I added more elements and adjust the parameter of noise.
     3.2 Iteration 2
+    
    <img width="449" alt="Iteration2" src="https://github.com/user-attachments/assets/7f935c2f-8eb2-4c8d-b049-1d55fd21725c">
+   
 In this version, the elements is lack in the colour contrast with the background. So I need change the background colour from dark blue to light grey.
     3.3 Iteration 3
+    
    <img width="448" alt="Iteration3" src="https://github.com/user-attachments/assets/8d9f97df-6fc1-4db0-b9e8-5634c4f60276">
+   
 So come to the last Version, everything is doing well.
 
