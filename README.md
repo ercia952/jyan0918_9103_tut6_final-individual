@@ -44,7 +44,7 @@ In this version of the candy tree, the visual effect dosen't do well, lacking th
     
    <img width="449" alt="Iteration2" src="https://github.com/user-attachments/assets/7f935c2f-8eb2-4c8d-b049-1d55fd21725c">
    
-In this version, the elements is lack in the colour contrast with the background. So I need change the background colour from dark blue to light grey.
+In this version, the elements is lack in the colour contrast with the background. And being lifted too high. So I need change the background colour from dark blue to light grey and reset the lift speed.
     3.3 Iteration 3
     
    <img width="448" alt="Iteration3" src="https://github.com/user-attachments/assets/8d9f97df-6fc1-4db0-b9e8-5634c4f60276">
